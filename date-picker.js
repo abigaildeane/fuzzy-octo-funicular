@@ -62,7 +62,7 @@
     // The end view date
     endDate: null,
     // The start view when initialized
-    startView: 1,
+    startView: 0,
     // 0 for days, 1 for months, 2 for years
     // The start day of the week
     // 0 for Sunday, 1 for Monday, 2 for Tuesday, 3 for Wednesday,
