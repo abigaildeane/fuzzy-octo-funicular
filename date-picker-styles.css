@@ -10,6 +10,7 @@
 
 .datepicker-container {
   background-color: #fff;
+  border-radius: 20px;
   direction: ltr;
   font-size: 12px;
   left: 0;
@@ -24,8 +25,9 @@
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  width: 210px;
+  width: 320px;
   z-index: -1;
+  
 }
 
 .datepicker-container::before,
