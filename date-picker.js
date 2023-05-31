@@ -65,19 +65,19 @@
     startView: 0,
     // 0 for days, 1 for months, 2 for years
     // The start day of the week
-    // 0 for Monday, 1 for Tuesday, 2 for Wednesday, 3 for Thursday,
-    // 4 for Friday, 5 for Saturday, 6 for Sunday
-    weekStart: 0,
+    // 0 for Sunday, 1 for Monday, 2 for Tuesday, 3 for Wednesday,
+    // 4 for Thursday, 5 for Friday, 6 for Saturday
+    weekStart: 1,
     // Show year before month on the datepicker header
     yearFirst: false,
     // A string suffix to the year number.
     yearSuffix: '',
     // Days' name of the week.
-    days: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+    days: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
     // Shorter days' name
-    daysShort: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
+    daysShort: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'],
     // Shortest days' name
-    daysMin: ['Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa', 'Su'],
+    daysMin: ['Su', 'Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa'],
     // Months' name
     months: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
     // Shorter months' name
