@@ -134,7 +134,7 @@
   list-style: none;
   margin: 0;
   padding: 0;
-  text-align: left;
+  text-align: center;
   width: 30px;
 }
 
@@ -186,6 +186,7 @@
 .datepicker-panel > ul > li[data-view="year current"],
 .datepicker-panel > ul > li[data-view="month current"] {
   width: 100px;
+  text-align: center;
 }
 
 .datepicker-panel > ul[data-view="years"] > li,
