@@ -180,7 +180,7 @@
 .datepicker-panel > ul > li[data-view="year next"],
 .datepicker-panel > ul > li[data-view="month next"],
 .datepicker-panel > ul > li[data-view="next"] {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .datepicker-panel > ul > li[data-view="years current"],
@@ -205,4 +205,8 @@
 
 .datepicker-hide {
   display: none;
+}
+
+.highlighted {
+  font-size: 14px;
 }
